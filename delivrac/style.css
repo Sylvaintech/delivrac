@@ -1,0 +1,86 @@
+
+
+@font-face {
+    font-family: "GT Walsheim Pro";
+    src: url(font/GTWalsheimProRegular.ttf)format('eot');
+    src: url(font/GTWalsheimProRegular.ttf)format('woff');
+    src: url(font/GTWalsheimProRegular.ttf)format('truetype');
+    src: url(font/GTWalsheimProRegular.ttf)format('svg');
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+}
+
+  h1
+  {
+    font-family: 'Yomogi', cursive;
+  }
+
+/* CONCEPT */
+
+.colorh
+{
+    color: brown;
+}
+
+/* ETAPE */
+.ensemble
+{
+    background-color:#fff9e5;
+}
+
+.etape
+{
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: green;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+    
+button
+{
+    border: none;
+    background-color:#fff9e5;
+    min-width: 200px;
+    
+}
+    
+.btn-etape
+{
+    text-decoration: none;
+    
+}
+
+.rouge
+{
+    color: #de7367;;
+}
+
+.jaune
+{
+    color: #f7c045;
+}
+
+.vert
+{
+    color: #4aa895
+}
+
+.vertclair
+{
+    color: #c8ce63
+}
+
+p
+{
+    color: black;
+}
+
